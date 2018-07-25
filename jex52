@@ -1,0 +1,15 @@
+import java.util.*;
+import java.lang.*;
+
+class integer
+{  
+    public static void main(String args[])
+    {
+		
+        String s = "640987";
+         
+        int i = Integer.parseInt(s);
+         
+        System.out.println(i);         
+    }
+}
